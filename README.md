@@ -196,25 +196,25 @@ In this section, we provide an overview of currently available open-source datas
 
 ### Open-Source Datasets
 
-| name | paper | year | url |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------------------------------|
-| MIR-1K             | On the Improvement of Singing Voice Separation for Monaural Recordings Using the MIR-1K Dataset                           | 2009 |                                                                              |
-| NUS-48E            | The NUS Sung and Spoken Lyrics Corpus:A Quantitative Comparison of Singing and Speech                                     | 2013 |                                                                              |
-| VocalSet           | VocalSet: A Singing Voice Dataset                                                                                         | 2018 | https://zenodo.org/records/1203819                                           |
-| KVT                | Semantic Tagging of Singing Voices in Popular Music Recordings                                                            | 2020 |                                                                              |
-| CSD                | Children's Song Dataset for Singing Voice Research                                                                        | 2020 | https://zenodo.org/record/4785016#.YLYW6P0QtTa                               |
-| PJS                | PJS: phoneme-balanced Japanese singing voice corpus                                                                       | 2020 | https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus |
-| NHSS               | NHSS: A Speech and Singing Parallel Database                                                                              | 2021 | https://hltnus.github.io/NHSSDatabase/download.html                          |
-| OpenSinger         | Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus                                           | 2021 | https://multi-singer.github.io/                                              |
-| Tohoku Kiritan     | Tohoku Kiritan singing database: A singing database for statistical parametric singing synthesis using Japanese pop songs | 2021 | https://zunko.jp/kiridev/login.php                                           |
-| PopCS              | DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism                                                       | 2022 |                                                                              |
-| M4Singer           | M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus                                  | 2022 | https://github.com/M4Singer/M4Singer                                         |
-| PopBuTFy           | Learning the Beauty in Songs: Neural Singing Voice Beautifier                                                             | 2022 | https://github.com/MoonInTheRiver/NeuralSVB                                  |
-| Opencpop           | Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis                              | 2022 | https://wenet.org.cn/opencpop/                                               |
-| Annotated-VocalSet | Annotated-VocalSet: A Singing Voice Dataset                                                                               | 2022 | https://zenodo.org/records/7061507                                           |
-| SingStyle111       | SINGSTYLE111: A MULTILINGUAL SINGING DATASET WITH STYLE TRANSFER                                                          | 2023 |                                                                              |
-| GTSinger           | GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks                       | 2024 | https://huggingface.co/datasets/GTSinger/GTSinger                            |
-| AceSinger          | Singing Voice Data Scaling-up: An Introduction to ACE-Opencpop and ACE-KiSing                                             | 2024 | https://github.com/espnet/espnet                                             |
+| Name | Link |
+|--------------------|------------------------------------------------------------------------------|
+| MIR-1K             | https://zenodo.org/records/3532216                                           |
+| NUS-48E            | https://ieeexplore.ieee.org/document/6694316                                 |
+| VocalSet           | https://zenodo.org/records/1203819                                           |
+| KVT                | https://ieeexplore.ieee.org/document/9097399                                 |
+| CSD                | https://zenodo.org/record/4785016#.YLYW6P0QtTa                               |
+| PJS                | https://sites.google.com/site/shinnosuketakamichi/research-topics/pjs_corpus |
+| NHSS               | https://hltnus.github.io/NHSSDatabase/download.html                          |
+| OpenSinger         | https://multi-singer.github.io/                                              |
+| Tohoku Kiritan     | https://zunko.jp/kiridev/login.php                                           |
+| PopCS              | https://github.com/MoonInTheRiver/DiffSinger/blob/master/resources/apply_form.md |
+| M4Singer           | https://github.com/M4Singer/M4Singer                                         |
+| PopBuTFy           | https://github.com/MoonInTheRiver/NeuralSVB                                  |
+| Opencpop           | https://wenet.org.cn/opencpop/                                               |
+| Annotated-VocalSet | https://zenodo.org/records/7061507                                           |
+| SingStyle111       | https://zenodo.org/records/10265401                                          |
+| GTSinger           | https://huggingface.co/datasets/GTSinger/GTSinger                            |
+| Ace-Opencpop/Ace-KiSing | https://github.com/espnet/espnet                                        |
 
 ### Annotation Tools for Singing Data
 
