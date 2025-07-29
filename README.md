@@ -89,7 +89,6 @@ model can directly generate the waveform without the use of vocoder. Dashed line
             <td>StyleSinger</td>
             <td><a href="https://github.com/AaronZ345/StyleSinger">https://github.com/AaronZ345/StyleSinger</a></td>
         </tr>
-        https://github.com/NZqian/RapBank
         <tr>
             <td>TCSinger</td>
             <td><a href="https://github.com/AaronZ345/TCSinger">https://github.com/AaronZ345/TCSinger</a></td>
