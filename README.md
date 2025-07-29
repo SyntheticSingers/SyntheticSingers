@@ -66,130 +66,137 @@ model can directly generate the waveform without the use of vocoder. Dashed line
     </thead>
     <tbody>
         <tr>
-            <td>XiaoiceSing</td>
-            <td><a href="https://github.com/AIGC-Audio/AudioGPT">https://github.com/AIGC-Audio/AudioGPT</a></td>
+            <td>DiffSinger</td>
+            <td><a href="https://github.com/MoonInTheRiver/DiffSinger">https://github.com/MoonInTheRiver/DiffSinger</a></td>
         </tr>
         <tr>
-            <td>SpeechGPT</td>
-            <td><a href="https://github.com/0nutation/SpeechGPT">https://github.com/0nutation/SpeechGPT</a></td>
+            <td>VISinger (Unofficial implementation)</td>
+            <td><a href="https://github.com/So-Fann/VISinger">https://github.com/So-Fann/VISinger</a></td>
         </tr>
         <tr>
-            <td>Freeze-Omni</td>
-            <td><a href="https://github.com/VITA-MLLM/Freeze-Omni">https://github.com/VITA-MLLM/Freeze-Omni</a></td>
+            <td>VISinger 2</td>
+            <td><a href="https://github.com/zhangyongmao/VISinger2">https://github.com/zhangyongmao/VISinger2</a></td>
         </tr>
         <tr>
-            <td>Baichuan-Omni</td>
-            <td><a href="https://github.com/westlake-baichuan-mllm/bc-omni">https://github.com/westlake-baichuan-mllm/bc-omni</a></td>
+            <td>VI-SVS</td>
+            <td><a href="https://github.com/PlayVoice/VI-SVS">https://github.com/PlayVoice/VI-SVS</a></td>
         </tr>
         <tr>
-            <td>GLM-4-Voice</td>
-            <td><a href="https://github.com/THUDM/GLM-4-Voice">https://github.com/THUDM/GLM-4-Voice</a></td>
+            <td>NNSVS</td>
+            <td><a href="https://github.com/nnsvs/nnsvs">https://github.com/nnsvs/nnsvs</a></td>
         </tr>
         <tr>
-            <td>Mini-Omni</td>
-            <td><a href="https://github.com/gpt-omni/mini-omni">https://github.com/gpt-omni/mini-omni</a></td>
+            <td>StyleSinger</td>
+            <td><a href="https://github.com/AaronZ345/StyleSinger">https://github.com/AaronZ345/StyleSinger</a></td>
+        </tr>
+        https://github.com/NZqian/RapBank
+        <tr>
+            <td>TCSinger</td>
+            <td><a href="https://github.com/AaronZ345/TCSinger">https://github.com/AaronZ345/TCSinger</a></td>
         </tr>
         <tr>
-            <td>Mini-Omni2</td>
-            <td><a href="https://github.com/gpt-omni/mini-omni2">https://github.com/gpt-omni/mini-omni2</a></td>
+            <td>TCSinger 2</td>
+            <td><a href="https://github.com/AaronZ345/TCSinger2">https://github.com/AaronZ345/TCSinger2</a></td>
         </tr>
         <tr>
-            <td>FunAudioLLM</td>
-            <td><a href="https://github.com/FunAudioLLM">https://github.com/FunAudioLLM</a></td>
+            <td>FreeStyler</td>
+            <td><a href="https://github.com/NZqian/RapBank">https://github.com/NZqian/RapBank</a></td>
+        </tr>
+        <tr>
+            <td>AlignSTS</td>
+            <td><a href="https://github.com/RickyL-2000/AlignSTS">https://github.com/RickyL-2000/AlignSTS</a></td>
+        </tr>
+        <tr>
+            <td>ComoSpeech</td>
+            <td><a href="https://github.com/zhenye234/CoMoSpeech">https://github.com/zhenye234/CoMoSpeech</a></td>
         </tr>
        <tr>
-            <td>Qwen-Audio</td>
-            <td><a href="https://github.com/QwenLM/Qwen-Audio">https://github.com/QwenLM/Qwen-Audio</a></td>
+            <td>ExpressiveSinger</td>
+            <td><a href="https://github.com/ExpressiveSinger/ExpressiveSinger">https://github.com/ExpressiveSinger/ExpressiveSinger</a></td>
         </tr>
         <tr>
-            <td>Qwen2-Audio</td>
-            <td><a href="https://github.com/QwenLM/Qwen2-Audio">https://github.com/QwenLM/Qwen2-Audio</a></td>
+            <td>TechSinger</td>
+            <td><a href="https://github.com/gwx314/TechSinger">https://github.com/gwx314/TechSinger</a></td>
         </tr>
         <tr>
-            <td>LLaMA3.1</td>
-            <td><a href="https://www.llama.com">https://www.llama.com</a></td>
+            <td>Prompt-Singer</td>
+            <td><a href="https://github.com/cyanbx/Prompt-Singer">https://github.com/cyanbx/Prompt-Singer</a></td>
         </tr>
         <tr>
-            <td>Audio Flamingo</td>
-            <td><a href="https://github.com/NVIDIA/audio-flamingo">https://github.com/NVIDIA/audio-flamingo</a></td>
-        </tr>
-       <tr>
-            <td>Ultravox</td>
-            <td><a href="https://github.com/fixie-ai/ultravox">https://github.com/fixie-ai/ultravox</a></td>
+            <td>HiFiSinger</td>
+            <td><a href="https://github.com/microsoft/muzic">https://github.com/microsoft/muzic</a></td>
         </tr>
         <tr>
-            <td>Spirit LM</td>
-            <td><a href="https://github.com/facebookresearch/spiritlm">https://github.com/facebookresearch/spiritlm</a></td>
+            <td>HiFiSinger (Unofficial implementation)</td>
+            <td><a href="https://github.com/CODEJIN/HiFiSinger">https://github.com/CODEJIN/HiFiSinger</a></td>
         </tr>
         <tr>
-            <td>dGSLM</td>
-            <td><a href="https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/dgslm">https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/dgslm</a></td>
+            <td>ByteSing</td>
+            <td><a href="https://github.com/Noise-Labs/ByteSing-pytorch">https://github.com/Noise-Labs/ByteSing-pytorch</a></td>
         </tr>
         <tr>
-            <td>Spoken-LLM</td>
-            <td><a href="https://arxiv.org/abs/2305.11000">https://arxiv.org/abs/2305.11000</a></td>
+            <td>WeSinger</td>
+            <td><a href="https://zzw922cn.github.io/wesinger/">https://zzw922cn.github.io/wesinger/</a></td>
         </tr>
         <tr>
-            <td>LLaMA-Omni</td>
-            <td><a href="https://github.com/ictnlp/LLaMA-Omni">https://github.com/ictnlp/LLaMA-Omni</a></td>
+            <td>SingGAN</td>
+            <td><a href="https://github.com/Rongjiehuang/SingGAN">https://github.com/Rongjiehuang/SingGAN</a></td>
         </tr>
         <tr>
-            <td>Moshi</td>
-            <td><a href="https://github.com/kyutai-labs/moshi">https://github.com/kyutai-labs/moshi</a></td>
+            <td>UniSinger</td>
+            <td><a href="https://github.com/ViEm-ccy/UniSinger">https://github.com/ViEm-ccy/UniSinger</a></td>
         </tr>
         <tr>
-            <td>SALMONN</td>
-            <td><a href="https://github.com/bytedance/SALMONN">https://github.com/bytedance/SALMONN</a></td>
+            <td>Learn2Sing 2.0</td>
+            <td><a href="https://github.com/WelkinYang/Learn2Sing2.0">https://github.com/WelkinYang/Learn2Sing2.0</a></td>
         </tr>
         <tr>
-            <td>LTU-AS</td>
-            <td><a href="https://github.com/YuanGongND/ltu">https://github.com/YuanGongND/ltu</a></td>
+            <td>UniSyn</td>
+            <td><a href="https://github.com/codejiajia/UniSyn">https://github.com/codejiajia/UniSyn</a></td>
         </tr>
         <tr>
-            <td>VITA</td>
-            <td><a href="https://github.com/VITA-MLLM/VITA">https://github.com/VITA-MLLM/VITA</a></td>
+            <td>NaturalSpeech 2</td>
+            <td><a href="https://github.com/lucidrains/naturalspeech2-pytorch">https://github.com/lucidrains/naturalspeech2-pytorch</a></td>
+        </tr>
+        <tr>
+            <td>YuE</td>
+            <td><a href="https://github.com/multimodal-art-projection/YuE">https://github.com/multimodal-art-projection/YuE</a></td>
         </tr>
         <tr>
             <td>SpeechGPT-Gen</td>
             <td><a href="https://github.com/0nutation/SpeechGPT">https://github.com/0nutation/SpeechGPT</a></td>
         </tr>
        <tr>
-            <td>WavLLM</td>
-            <td><a href="https://github.com/microsoft/SpeechT5/tree/main/WavLLM">https://github.com/microsoft/SpeechT5/tree/main/WavLLM</a></td>
+            <td>InsprieMusic</td>
+            <td><a href="https://github.com/FunAudioLLM/InspireMusic">https://github.com/FunAudioLLM/InspireMusic</a></td>
         </tr>
         <tr>
-            <td>Westlake-Omni</td>
-            <td><a href="https://github.com/xinchen-ai/Westlake-Omni">https://github.com/xinchen-ai/Westlake-Omni</a></td>
+            <td>Songgen</td>
+            <td><a href="https://github.com/LiuZH-19/SongGen">https://github.com/LiuZH-19/SongGen</a></td>
         </tr>
         <tr>
-            <td>MooER-Omni</td>
-            <td><a href="https://github.com/MooreThreads/MooER">https://github.com/MooreThreads/MooER</a></td>
+            <td>DiffRhythm</td>
+            <td><a href="https://github.com/ASLP-lab/DiffRhythm">https://github.com/ASLP-lab/DiffRhythm</a></td>
         </tr>
         <tr>
-            <td>Hertz-dev</td>
-            <td><a href="https://github.com/Standard-Intelligence/hertz-dev">https://github.com/Standard-Intelligence/hertz-dev</a></td>
-        </tr>
-        <tr>
-            <td>Fish-Agent</td>
-            <td><a href="https://github.com/fishaudio/fish-speech">https://github.com/fishaudio/fish-speech</a></td>
-        </tr>
-        <tr>
-            <td>SpeechGPT2</td>
-            <td><a href="https://0nutation.github.io/SpeechGPT2.github.io/">https://0nutation.github.io/SpeechGPT2.github.io/</a></td>
+            <td>Levo</td>
+            <td><a href="https://huggingface.co/tencent/SongGeneration">https://huggingface.co/tencent/SongGeneration</a></td>
         </tr>
     </tbody>
 </table>
 
-Table 1: The list of publicly available speech dialogue models and their URL
+Table 1: The list of publicly available SVS models and their URL
 </div>
 
 ## SVS Representations and Control
 
 ## Resources in SVS Models
 
+In this section, we provide an overview of currently available open-source datasets, as well as publicly accessible singing voice annotation and preprocessing tools.
+
 ### Open-Source Datasets
 
-| name | paper | year | link |
+| name | paper | year | url |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------|------|------------------------------------------------------------------------------|
 | MIR-1K             | On the Improvement of Singing Voice Separation for Monaural Recordings Using the MIR-1K Dataset                           | 2009 |                                                                              |
 | NUS-48E            | The NUS Sung and Spoken Lyrics Corpus:A Quantitative Comparison of Singing and Speech                                     | 2013 |                                                                              |
@@ -211,6 +218,13 @@ Table 1: The list of publicly available speech dialogue models and their URL
 
 ### Annotation Tools for Singing Data
 
-| name | usage | link |
-|---|--|---|---|
-| MFA | Speech-Text Forced Alignment | |
+| Name     | Usage                          | Link |
+|----------|--------------------------------|------|
+| MFA      | Speech-Text Forced Alignment   | https://montrealcorpustools.github.io/Montreal-Forced-Aligner/    |
+| SOFA     | Singing-Text Forced Alignment  |  https://github.com/qiuqiao/SOFA  |
+| VOCANO   | Vocal's Note Transcription     | https://github.com/B05901022/VOCANO  |
+| MusicYOLO| Music's Note Transcription     |  https://github.com/itec-hust/MusicYOLO  |
+| ROSVOT   | Vocal's Note Transcription     | https://github.com/RickyL-2000/ROSVOT   |
+| STARS    | Unified Model for Annotation   | https://github.com/gwx314/STARS  |
+| UVR |  Voice and Accompaniment Separation | https://ultimatevocalremover.com/ |
+| ClearerVoice | Voice Enhancement | https://github.com/modelscope/ClearerVoice-Studios |
