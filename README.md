@@ -22,7 +22,7 @@ For more details, please refer to the [paper]().
 And the organiztion of this survey is shown below. 
 
 <div align='center'>
-<img src="figure/organization.png" alt="img1-paper-list" style="zoom: 20%;" />
+<img src="figure/organization.png" alt="img1-organization" style="zoom: 20%;" />
 
 Figure 1: Organization of the survey.
 </div>
@@ -38,7 +38,7 @@ The mainstream singing voice tasks can be broadly categorized into the following
 
 
 <div align='center'>
-<img src="figure/tasks.png" alt="img1-paper-list" style="zoom: 20%;" />
+<img src="figure/tasks.png" alt="img2-tasks" style="zoom: 20%;" />
 
 Figure 2: An overall demonstration of four prevailing tasks of SYS sytem.
 </div>
@@ -48,7 +48,7 @@ Figure 2: An overall demonstration of four prevailing tasks of SYS sytem.
 We categorize current SVS systems into two types based on whether a vocoder is explicitly used in the synthesis pipeline: (a) **Cascaded SVS Models** and (b) **End-to-End SVS Models**.
 
 <div align='center'>
-<img src="figure/arch.png" alt="img1-paper-list" style="zoom: 20%;" />
+<img src="figure/arch.png" alt="img3-architecture" style="zoom: 20%;" />
 
 Figure 3: We categorize SVS models into two paradigms, cascaded and end-to-end approaches, based on whether the
 model can directly generate the waveform without the use of vocoder. Dashed lines represent optional processes.
