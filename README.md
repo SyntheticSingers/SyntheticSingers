@@ -21,9 +21,11 @@ For more details, please refer to the [paper]().
 
 And the organiztion of this survey is shown below. 
 
-【放一下我们画好的latex图】
+<div align='center'>
+<img src="figure/organization.png" alt="img1-paper-list" style="zoom: 20%;" />
 
-【所有的图都记得加下面的caption，下面的也一样，下面的图注从论文里抄，图注格式参考wavchat】
+Figure 1: Organization of the survey.
+</div>
 
 ## Tasks of SVS
 
@@ -36,7 +38,7 @@ The mainstream singing voice tasks can be broadly categorized into the following
 
 
 
-![tasks of svs](figure/tasks.jpg)
+![tasks of svs](figure/tasks.png)
 
 
 
@@ -45,7 +47,7 @@ The mainstream singing voice tasks can be broadly categorized into the following
 We categorize current SVS systems into two types based on whether a vocoder is explicitly used in the synthesis pipeline: (a) **Cascaded SVS Models** and (b) **End-to-End SVS Models**.
 
 
-![architectures of svs](figure/arch.jpg)
+![architectures of svs](figure/arch.png)
 
 
 ## Publicly Available Singing Voice Synthesis Models
