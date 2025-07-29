@@ -14,7 +14,7 @@ For more details, please refer to the [paper]().
 
 - [Tasks of SVS](#tasks-of-svs)
 - [Architectures of SVS Systems](#architectures-of-svs-systems)
-- [SVS Representations and Control](#svs-representations-and-control)
+- [Publicly Available SVS Models](#publicly-available-singing-voice-synthesis-models)
 - [Resources in SVS Models](#resources-in-svs-models)
   - [Open-Source Datasets](#open-source-datasets)
   - [Annotation Tools for Singing Data](#annotation-tools-for-singing-data)
@@ -187,8 +187,6 @@ model can directly generate the waveform without the use of vocoder. Dashed line
 
 Table 1: The list of publicly available SVS models and their URL
 </div>
-
-## SVS Representations and Control
 
 ## Resources in SVS Models
 
