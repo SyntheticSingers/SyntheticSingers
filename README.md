@@ -37,18 +37,22 @@ The mainstream singing voice tasks can be broadly categorized into the following
 * **Text-to-Song Generation:** Targets the joint generation of high-quality singing voices and their aligned accompaniment, producing a complete musical piece from text input.
 
 
+<div align='center'>
+<img src="figure/tasks.png" alt="img1-paper-list" style="zoom: 20%;" />
 
-![tasks of svs](figure/tasks.png)
-
-
+Figure 2: An overall demonstration of four prevailing tasks of SYS sytem.
+</div>
 
 ## Architectures of SVS Systems
 
 We categorize current SVS systems into two types based on whether a vocoder is explicitly used in the synthesis pipeline: (a) **Cascaded SVS Models** and (b) **End-to-End SVS Models**.
 
+<div align='center'>
+<img src="figure/arch.png" alt="img1-paper-list" style="zoom: 20%;" />
 
-![architectures of svs](figure/arch.png)
-
+Figure 3: We categorize SVS models into two paradigms, cascaded and end-to-end approaches, based on whether the
+model can directly generate the waveform without the use of vocoder. Dashed lines represent optional processes.
+</div>
 
 ## Publicly Available Singing Voice Synthesis Models
 
