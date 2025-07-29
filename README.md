@@ -216,6 +216,10 @@ In this section, we provide an overview of currently available open-source datas
 | GTSinger           | https://huggingface.co/datasets/GTSinger/GTSinger                            |
 | Ace-Opencpop/Ace-KiSing | https://github.com/espnet/espnet                                        |
 
+<div align='center'>
+Table 2: The list of open-source datasets and their URL
+</div>
+
 ### Annotation Tools for Singing Data
 
 | Name     | Usage                          | Link |
@@ -228,3 +232,7 @@ In this section, we provide an overview of currently available open-source datas
 | STARS    | Unified Model for Annotation   | https://github.com/gwx314/STARS  |
 | UVR |  Voice and Accompaniment Separation | https://ultimatevocalremover.com/ |
 | ClearerVoice | Voice Enhancement | https://github.com/modelscope/ClearerVoice-Studios |
+
+<div align='center'>
+Table 3: The list of annotation tools and their URL
+</div>
